@@ -9,7 +9,7 @@
 
 <img src="https://cdn-1.webcatalog.io/catalog/mangoapps/mangoapps-icon-filled-256.png?v=1717381053689" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/mangoapps">
+<a href="https://gnomik-gomik-apps.github.io/.github/mangoapps">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
